@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehrab.</h1>
-<h3 align="center">A competitive programmar and a novice backend developer from Bangladesh</h3>
-
-- 🌱 I’m currently learning **React Framework.**
+<h3 align="center">A competitive programmar who loves solving problems</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
